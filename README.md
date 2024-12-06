@@ -1,2 +1,2 @@
-# jump_box
-A box to encode yeeting
+# Yeet Box
+A box to encode human yeeting
